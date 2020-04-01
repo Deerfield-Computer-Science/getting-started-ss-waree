@@ -5,5 +5,6 @@ public class HelloWorld extends ConsoleProgram{
 		println("Hello World");
 		println("Send help, I've been stuck here for 6 days.");
 		println("Only 8 days left till I am freeeee!");
+		println("Thirty six degrees celsius");
 	}
 }
